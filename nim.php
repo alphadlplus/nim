@@ -1,4 +1,4 @@
-<?
+<?php
 header("Content-Type: video/mp4");
 //header('Content-Disposition: inline; filename="alphadlbot"');
 
